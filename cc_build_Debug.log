@@ -1,0 +1,10 @@
+---------------------------  dsk_audio4.pjt - Debug  ---------------------------
+[codec.c] "C:\CCStudio_v3.1\C6000\cgtools\bin\cl6x" -g -q -fr"C:/Documents and Settings/michael/My Documents/Google Drive/ECE496-CodeBox/Firas/DSK_AUDIO4_6713/Debug" -d"CHIP_6713" -mv6710 -@"Debug.lkf" "codec.c"
+"codec.c", line 22: error: identifier "FILE" is undefined
+"codec.c", line 138: error: a value of type "int" cannot be assigned to an entity of type "<error-type> *"
+2 errors detected in the compilation of "codec.c".
+
+>> Compilation failure
+
+Build Complete,
+  2 Errors, 0 Warnings, 0 Remarks.
